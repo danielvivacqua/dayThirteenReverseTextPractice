@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\bin\Debug\dayThirteenReverseTextPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\bin\Debug\dayThirteenReverseTextPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\bin\Debug\dayThirteenReverseTextPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\obj\Debug\dayThirteenReverseTextPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\obj\Debug\dayThirteenReverseTextPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayThirteenReverseTextPractice\dayThirteenReverseTextPractice\obj\Debug\dayThirteenReverseTextPractice.csprojResolveAssemblyReference.cache
